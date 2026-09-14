@@ -21,8 +21,8 @@
   </p>
 
   <p align="center">
-    <a href="https://drive.google.com/file/d/1K4cv7DcQbmyRRoeniR95AxEQ8zY4GuFx/view?usp=drive_link" download>
-      <img src="https://img.shields.io/badge/Portfolio-Download-blue" alt="Download Portfolio" />
+    <a href="https://drive.google.com/file/d/1K4cv7DcQbmyRRoeniR95AxEQ8zY4GuFx/view?usp=drive_link">
+      <img src="https://img.shields.io/badge/Portfolio-View-blue" alt="Portfolio" />
     </a>
   </p>
 </div>
