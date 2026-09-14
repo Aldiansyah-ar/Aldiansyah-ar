@@ -16,10 +16,10 @@
 
   <!-- Tombol Download CV -->
   <p align="center">
-  <a href="assets/documents/CV.pdf" target="_blank">
+  <a href="assets/documents/CV Aldiansyah Anugrah Ramadhan.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View-My_CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV" />
   </a>
-  <a href="assets/documents/CV.pdf" download>
+  <a href="assets/documents/CV Aldiansyah Anugrah Ramadhan.pdf" download>
     <img src="https://img.shields.io/badge/Download-CV-green?style=for-the-badge&logo=icloud&logoColor=white" alt="Download CV" />
   </a>
 </p>
