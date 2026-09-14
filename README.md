@@ -10,7 +10,7 @@
     <a href="https://github.com/Aldiansyah-ar"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
     <a href="https://linkedin.com/in/aldiansyah-ar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
     <a href="mailto:aldiansyahaldi621@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
-    <a href="https://wa.me/6281394986468"><img src="docs/assets/icons/whatsapp.png" width="48" height="48" alt="WhatsApp" /></a>
+    <a href="https://wa.me/6281394986468"><img src="assets/icons/whatsapp.png" width="48" height="48" alt="WhatsApp" /></a>
     <a href="https://instagram.com/aldi.okidoki"><img src="https://skillicons.dev/icons?i=instagram" alt="WhatsApp" /></a>
   </p>
 </div>
