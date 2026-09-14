@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Languages & Frameworks](https://skillicons.dev/icons?i=py,ts,nodejs,express,django,fastapi,tailwind,react&perline=10)
+![Languages & Frameworks](https://skillicons.dev/icons?i=py,js,ts,nodejs,express,django,fastapi,html,tailwind,react&perline=10)
 
 ![Databases & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongo,linux,aws,docker,postman,git,github&perline=10)
 </div>
