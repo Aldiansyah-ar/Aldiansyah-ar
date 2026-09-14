@@ -11,8 +11,18 @@
     <a href="https://linkedin.com/in/aldiansyah-ar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
     <a href="mailto:aldiansyahaldi621@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
     <a href="https://wa.me/6281394986468"><img src="assets/icons/whatsapp.png" width="48" height="48" alt="WhatsApp" /></a>
-    <a href="https://instagram.com/aldi.okidoki"><img src="https://skillicons.dev/icons?i=instagram" alt="WhatsApp" /></a>
+    <a href="https://instagram.com/aldi.okidoki"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
   </p>
+
+  <!-- Tombol Download CV -->
+  <p align="center">
+  <a href="assets/documents/CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View-My_CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV" />
+  </a>
+  <a href="assets/documents/CV.pdf" download>
+    <img src="https://img.shields.io/badge/Download-CV-green?style=for-the-badge&logo=icloud&logoColor=white" alt="Download CV" />
+  </a>
+</p>
 </div>
 
 
