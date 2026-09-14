@@ -14,15 +14,17 @@
     <a href="https://instagram.com/aldi.okidoki"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
   </p>
 
-  <!-- Tombol Download CV -->
   <p align="center">
-  <a href="assets/documents/CV Aldiansyah Anugrah Ramadhan.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View-My_CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View CV" />
-  </a>
-  <a href="assets/documents/CV Aldiansyah Anugrah Ramadhan.pdf" download>
-    <img src="https://img.shields.io/badge/Download-CV-green?style=for-the-badge&logo=icloud&logoColor=white" alt="Download CV" />
-  </a>
-</p>
+    <a href="https://drive.google.com/file/d/1oWWymVX5mXSe3e6cwedb4zREiyavrTVa/view?usp=drive_link" download>
+      <img src="https://img.shields.io/badge/CV-Download-blue" alt="Download CV" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://drive.google.com/file/d/1K4cv7DcQbmyRRoeniR95AxEQ8zY4GuFx/view?usp=drive_link" download>
+      <img src="https://img.shields.io/badge/Portfolio-Download-blue" alt="Download Portfolio" />
+    </a>
+  </p>
 </div>
 
 
