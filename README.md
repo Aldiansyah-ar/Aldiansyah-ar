@@ -15,7 +15,7 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/Aldiansyah-ar/Aldiansyah-ar.github.io/blob/main/assets/documents/CV%20Aldiansyah%20Anugrah%20Ramadhan.pdf" download>
+    <a href="https://aldiansyah-ar.github.io/assets/documents/CV%20Aldiansyah%20Anugrah%20Ramadhan.pdf" download>
       <img src="https://img.shields.io/badge/CV-Download-blue" alt="Download CV" />
     </a>
   </p>
