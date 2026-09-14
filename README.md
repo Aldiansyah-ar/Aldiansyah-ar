@@ -7,30 +7,29 @@
   </p>
 
   <p align="center">
-    <a href="https://github.com/Aldiansyah-ar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://linkedin.com/in/aldiansyah-ar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:aldiansyahaldi621@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/Aldiansyah-ar"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+    <a href="https://linkedin.com/in/aldiansyah-ar"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:aldiansyahaldi621@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+    <a href="https://wa.me/6281394986468"><img src="docs/assets/icons/whatsapp.png" width="48" height="48" alt="WhatsApp" /></a>
+    <a href="https://instagram.com/aldi.okidoki"><img src="https://skillicons.dev/icons?i=instagram" alt="WhatsApp" /></a>
   </p>
 </div>
 
----
 
-### Skills
-<br/>
-```
-Programming Languages → Python, JavaScript, TypeScript
-AI Engineering → Machine Learning (Scikitlearn), Deep Learning (Tensorflow, PyTorch), LLM (Transformer, Gemini
-API), RAG
-Data Engineering → PySpark, ETL
-Frontend → HTML, CSS, React
-Backend → Python (Django, FastAPI), Node.js (Express.js)
-Databases → Git, Postman, Linux, AWS, Docker
-```
 <br/>
 
----
+## Tech Stack
 
-### GitHub Stats
+<div align="center">
+
+![Languages & Frameworks](https://skillicons.dev/icons?i=py,ts,nodejs,express,django,fastapi,tailwind,react&perline=10)
+
+![Databases & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongo,linux,aws,docker,postman,git,github&perline=10)
+</div>
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
   <p>
@@ -38,7 +37,6 @@ Databases → Git, Postman, Linux, AWS, Docker
   </p>
 </div>
 
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=100&section=footer" width="100%" />
