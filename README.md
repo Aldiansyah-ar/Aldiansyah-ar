@@ -15,13 +15,13 @@
   </p>
 
   <p align="center">
-    <a href="https://drive.google.com/file/d/1oWWymVX5mXSe3e6cwedb4zREiyavrTVa/view?usp=drive_link" download>
+    <a href="https://github.com/Aldiansyah-ar/Aldiansyah-ar.github.io/blob/main/assets/documents/CV%20Aldiansyah%20Anugrah%20Ramadhan.pdf" download>
       <img src="https://img.shields.io/badge/CV-Download-blue" alt="Download CV" />
     </a>
   </p>
 
   <p align="center">
-    <a href="https://drive.google.com/file/d/1K4cv7DcQbmyRRoeniR95AxEQ8zY4GuFx/view?usp=drive_link">
+    <a href="https://aldiansyah-ar.github.io">
       <img src="https://img.shields.io/badge/Portfolio-View-blue" alt="Portfolio" />
     </a>
   </p>
